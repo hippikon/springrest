@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="unit">
+
+	<test name="unit">
+	
+		<classes>
+   			<!--
+			<class name="digital.places.root.AuthBaseTest">
+   			-->
+		</classes>
+		
+	</test>
+	
+</suite>
